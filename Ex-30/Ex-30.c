@@ -1,0 +1,1 @@
+/* Escreva uma função recursiva espelhar uma árvore T e retornar uma nova árvore T, mas com as subárvores esquerda e direita de todos os nós trocadas.*/

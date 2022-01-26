@@ -1,0 +1,1 @@
+/*Escreva uma função recursiva para fazer o produto interno entre dois vetores de mesmo tamanho. Escreva também a chamada da função. Ex: Sejam v={1,2,3} e w={4,5,6} então o prodint=1*4 + 2*5 + 3*6 = 4+10+18=32. Escreva também a chamada da função.*/

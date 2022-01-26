@@ -1,0 +1,1 @@
+/*Escreva uma função recursiva para apresentar a soma de todos os números inteiros pares de zero até um número informado pelo usuário. Por exemplo: Para n = 9 a função deve retornar 0 + 2 + 4 + 6 + 8 = 20*/

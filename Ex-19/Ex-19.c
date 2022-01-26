@@ -1,0 +1,1 @@
+/*Escreva uma função recursiva que calcule a soma dos primeiros n cubos: S(n) = 13 + 23 + ... + n3*/

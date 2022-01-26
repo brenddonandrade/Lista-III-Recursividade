@@ -1,0 +1,1 @@
+/*Faça uma função recursiva que receba um vetor de inteiros e dobre os valores de todos seus componentes. Escreva também a chamada a função.*/

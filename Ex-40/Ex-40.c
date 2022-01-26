@@ -1,0 +1,1 @@
+/*Escreva uma função recursiva que recebe como parâmetro o ponteiro para a raiz de uma árvore binária de busca que armazena apenas valores inteiros e retorna um ponteiro para o maior valor armazenado na árvore. Caso a árvore seja vazia, a função deve retornar NULL. O protótipo da função é: struct tree *maior_valor(struct tree *raiz);*/

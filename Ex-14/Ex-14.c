@@ -1,0 +1,1 @@
+/*Escreva uma função recursiva que calcule e retorne a soma dos elementos positivos do vetor de inteiros.*/
